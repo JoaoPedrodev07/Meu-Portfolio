@@ -1,4 +1,8 @@
 
+* {
+  border: 1px solid red !important;
+}
+
 /* Configuracoes iniciais */
 * {
     margin: 0;
