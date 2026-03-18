@@ -1,7 +1,4 @@
 
-* {
-  border: 1px solid red !important;
-}
 
 /* Configuracoes iniciais */
 * {
@@ -38,6 +35,9 @@ body {
     
 }
 
+body > * {
+    width: 100%;
+}
 
 /* navegação header do projeto */
 .navegacao{
