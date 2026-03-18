@@ -37,6 +37,7 @@ body {
 
 body > * {
     max-width: 100%;
+    overflow-x: hidden;
 }
 
 /* navegação header do projeto */
