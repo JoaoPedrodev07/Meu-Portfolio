@@ -316,8 +316,10 @@ padding-bottom: 18rem;
 }
 #menu-footer {
     display:flex;
-    gap: 30rem;
+    justify-content:space-evenly;
     list-style:none;
+    width:100%;
+    padding:0;
 
 }
 
