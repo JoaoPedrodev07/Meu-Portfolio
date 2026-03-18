@@ -59,6 +59,11 @@ body > * {
 
 }
 
+@media (max-width:768px) {
+    .menu {
+        gap:2rem;
+    }
+}
 .menu-link {
     text-decoration: none;
     color: var(--claro);
